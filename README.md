@@ -5,7 +5,7 @@
             <a href="#Structure">Structure</a>
              </li>
             <li>
-                <a href="#Future">Adaptive schedule</a>
+                <a href="#Future">Future of schedule</a>
             </li>
              <li>
                  <a href="#contact">Contact</a>
@@ -21,7 +21,7 @@
  <img src="./Web capture_31-5-2021_19306_.jpeg" alt="Failed to load picture"></a>
 
  ## <h2 id="Future"><i> Future of schedule</i></h2>
- <p>Again, as you might see theres some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href="" target="_blank">here</p>
+ <p>Again, as you might see theres some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href="https://bruno192000.github.io/Work-Day-scheduler/" target="_blank">here</p>
 
  ## <h2 id="contact"><i>Contact information</i></h2>
 <p> As always, you'll find 3 ways to contact me:</p>
